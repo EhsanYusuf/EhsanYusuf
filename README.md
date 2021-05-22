@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EhsanYusuf
-- 👀 I’m interested in .Net, Xamarin, Flutter
+- 👀 I’m interested in .Net, Xamarin, Flutter etc.
 - 💞️ I’m looking to collaborate on app development, custom software and integrations
 - 📫 https://www.linkedin.com/in/ehsanulhaq/
 
