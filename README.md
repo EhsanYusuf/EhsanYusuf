@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EhsanYusuf
 - 👀 I’m interested in .Net Core, Xamarin, Flutter
-- 💞️ I’m looking to collaborate on app development and integraions
+- 💞️ I’m looking to collaborate on app development, custom software and integrations
 - 📫 https://www.linkedin.com/in/ehsanulhaq/
 
 <!---
